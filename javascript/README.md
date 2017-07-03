@@ -1,4 +1,4 @@
 # Javascript  
 
-| Title                                           | URL (Amazon, Flipkart etc) | Comments| 
-|-------------------------------------------------|----------------------------|---------|
+| Title                                           | URL (Amazon, Flipkart etc) | Comments| Type (Beginner, Intermediate or Advanced)|
+|-------------------------------------------------|----------------------------|---------|-----|
